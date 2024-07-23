@@ -1,0 +1,181 @@
+
+/*
+
+// Teste de compartilhar pdf
+
+// // Função para gerar o PDF a partir de uma lista de URLs
+// function gerarPDF(listaDeUrls) {
+//     // Criando um novo objeto jsPDF
+//     var pdf = new jsPDF();
+  
+//     // Função para adicionar imagens ao PDF
+//     function addImagesToPDF(index) {
+//       if (index < listaDeUrls.length) {
+//         html2canvas(document.body, {
+//           onclone: function (clone) {
+//             var img = clone.createElement('img');
+//             img.src = listaDeUrls[index];
+//             clone.body.innerHTML = '';
+//             clone.body.appendChild(img);
+//           }
+//         }).then(function (canvas) {
+//           pdf.addImage(canvas.toDataURL('image/jpeg'), 'JPEG', 10, 10, 100, 75);
+  
+//           if (index < listaDeUrls.length - 1) {
+//             pdf.addPage();
+//           }
+  
+//           addImagesToPDF(index + 1);
+//         });
+//       } else {
+//         pdf.save('output.pdf');
+//         limparListaDeUrls(listaDeUrls); // Zera a lista após gerar o PDF
+//       }
+//     }
+  
+//     // Inicia o processo chamando a função com índice 0
+//     addImagesToPDF(0);
+//   }
+
+//   function limparListaDeUrls(listaDeUrls) {
+//     listaDeUrls.length = 0;
+//   }
+
+// //   console.log(listaDeUrls)
+
+
+
+
+
+
+
+
+
+Teste de função para a área do ADM
+
+ Verifica se a senha já foi definida anteriormente e a recupera
+ let novaSenha = localStorage.getItem('novaSenha') || "1";
+ function alterarSenha() {
+     let confirmar = confirm("Confirmar alteração de senha?");
+  
+     if(confirmar == true){
+         let senha = prompt("Insira a senha anterior");
+         if(senha === novaSenha){
+             novaSenha = prompt("Insira a nova senha:");
+             if (novaSenha !== null) {
+                 // Salva a nova senha no localStorage
+                 localStorage.setItem('novaSenha', novaSenha);
+                 alert("Senha alterada com sucesso! Nova senha: " + novaSenha);
+             }
+         }
+     }
+     else {
+         alert("Alteração cancelada!");
+     }
+ }
+ function concederAcesso() {
+     let senhaInserida = prompt("Inserir a senha de acesso:" + novaSenha);
+     if(senhaInserida === novaSenha) 
+         window.location.href = "Adm.html";
+     else
+         alert("Senha incorreta!");
+
+
+
+ PDF
+
+function uploadPDF(unidade) {
+    let fileInput = document.getElementById(`pdfFile_${unidade}`);
+    let pdfFile = fileInput.files[0];
+
+    let detalhesContainer = document.getElementById(`detalhesContainer_${unidade}`);
+    let detalhesContainerAlert = document.getElementById(`detalhesContainer_alert_${unidade}`);
+    detalhesContainer.innerHTML = ''; // Limpar o conteúdo antes de adicionar o novo PDF
+    detalhesContainerAlert.innerHTML = ''; // Limpar o conteúdo do alerta
+
+    if (pdfFile) {
+        // Você pode adicionar código aqui para validar se o arquivo é um PDF antes de prosseguir
+
+        let reader = new FileReader();
+        reader.onload = function(event) {
+            let pdfData = event.target.result;
+
+            // Exibe o PDF no navegador
+            detalhesContainer.innerHTML = `<embed src="${pdfData}" type="application/pdf" width="100%" height="600px" />`;
+
+            const ocultar = document.querySelectorAll('.ocultar');
+            ocultar.forEach(ocultar => {
+                ocultar.style.display = 'none';
+            });
+
+            const main = document.querySelectorAll('.inicial__mn');
+            main.forEach(main => {
+                main.style.height = '100vh';
+            });
+        };
+
+        // Lê o conteúdo do arquivo PDF como uma URL de dados
+        reader.readAsDataURL(pdfFile);
+    } else {
+        detalhesContainerAlert.innerHTML = "Selecione um arquivo PDF válido.";
+    }
+}
+
+function obterCapturaPorData(unidade) {
+    // Exibe a mensagem de carregamento
+    exibirMensagemDeCarregamento();
+
+    let data_input = document.getElementById(`dataInput_${unidade}`).value;
+    let setor = document.getElementById(`setorSelect_${unidade}`).value;
+    let capturas = unidades[unidade][setor];
+    
+    let detalhesContainer = document.getElementById(`detalhesContainer_${unidade}`);
+    let detalhesContainerAlert = document.getElementById(`detalhesContainer_alert_${unidade}`);
+    detalhesContainer.innerHTML = ''; // Limpar o conteúdo antes de adicionar novas capturas
+    detalhesContainerAlert.innerHTML = ''; // Limpar o conteúdo do alerta
+
+    let capturasEncontradas = false;
+
+    for (let i = 0; i < capturas.length; i++) {
+        let dataFormatada = capturas[i].data.split('/').reverse().join('-');
+
+        if (dataFormatada === data_input) {
+            for (let j = 0; j < capturas[i].captura.length; j++) {
+                let novaImagem = document.createElement('img');
+                novaImagem.src = capturas[i].captura[j];
+                novaImagem.alt = data_input;
+
+                let novoDetalhe = document.createElement('div');
+                novoDetalhe.classList.add('detalhes');
+                novoDetalhe.innerHTML = `
+                    <div class="detalhes-container"></div>
+                `;
+
+                novoDetalhe.querySelector('.detalhes-container').appendChild(novaImagem);
+
+                detalhesContainer.appendChild(novoDetalhe);
+            }
+            capturasEncontradas = true;
+
+            const ocultar = document.querySelectorAll('.ocultar');
+            ocultar.forEach(ocultar => {
+                ocultar.style.display = 'none';
+            });
+
+            const main = document.querySelectorAll('.inicial__mn');
+            main.forEach(main => {
+                main.style.height =  '100vh';  
+            });
+            
+        }
+        // Esconde a mensagem de carregamento após o carregamento das imagens
+        esconderMensagemDeCarregamento();
+    }
+
+    if (!capturasEncontradas) {
+        detalhesContainerAlert.innerHTML = "Apontamento não finalizado!";
+    } else {
+        detalhesContainerAlert.innerHTML = ''; // Limpar o conteúdo do alerta se novas capturas foram encontradas
+    }
+}
+*/
