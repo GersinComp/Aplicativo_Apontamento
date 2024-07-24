@@ -223,6 +223,7 @@ const unidades = {
             { data: "17/07/2024", captura: ["capturas/Unidade 1/2024/7- Julho/Usinagem/Montagem/17.jpg"] },
             { data: "19/07/2024", captura: ["capturas/Unidade 1/2024/7- Julho/Usinagem/Montagem/19.jpg"] },
             { data: "22/07/2024", captura: ["capturas/Unidade 1/2024/7- Julho/Usinagem/Montagem/22.jpg"] },
+            { data: "23/07/2024", captura: ["capturas/Unidade 1/2024/7- Julho/Usinagem/Montagem/23.jpg"] },
 
 
             // { data: "", captura: [""] },
