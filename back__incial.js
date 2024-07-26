@@ -389,6 +389,7 @@ const unidades = {
             { data: "16/07/2024", captura: ["capturas/Unidade 2/Acabamento/2024/7- Julho/Tingidor/16.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/Robô/16.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/PéTras/16.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/PéFrente/16.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/Montagem/16.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/LixaçãoFundoMaquininha/16.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/LixaçãoFundoManual/16.jpg"] },
             { data: "17/07/2024", captura: ["capturas/Unidade 2/Acabamento/2024/7- Julho/Tingidor/17.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/Robô/17.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/PéTras/17.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/PéFrente/17..jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/Montagem/17.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/LixaçãoFundoMaquininha/17.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/LixaçãoFundoManual/17.jpg"] },
             { data: "23/07/2024", captura: ["capturas/Unidade 2/Acabamento/2024/7- Julho/Tingidor/23.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/Robô/23.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/PéTras/23.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/PéFrente/23.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/Montagem/23.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/LixaçãoFundoMaquininha/23.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/LixaçãoFundoManual/23.jpg"] },
+            { data: "24/07/2024", captura: ["capturas/Unidade 2/Acabamento/2024/7- Julho/Tingidor/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/Robô/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/PéTras/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/PéFrente/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/Montagem/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/LixaçãoFundoMaquininha/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/LixaçãoFundoManual/25.jpg"] },
 
 
             // { data: "", captura: ["", "", "", "", "", "", ""] },
@@ -448,6 +449,8 @@ const unidades = {
             { data: "05/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Calibradora/5.jpg"] },
             { data: "15/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Calibradora/15.jpg"] },
             { data: "24/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Calibradora/24.jpg"] },
+            { data: "25/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Calibradora/25.jpg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -472,6 +475,7 @@ const unidades = {
             { data: "05/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Prensas/5.jpg"] },
             { data: "15/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Prensas/15.jpg"] },
             { data: "24/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Prensas/24.jpg"] },
+            { data: "25/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Prensas/25.jpg"] },
 
 
             // { data: "", captura: [""] },
