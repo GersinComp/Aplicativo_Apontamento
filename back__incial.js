@@ -266,6 +266,7 @@ const unidades = {
             { data: "12/07/2024", captura: ["capturas/Unidade 2/Expedição/2024/7- Julho/12.png"] },
             { data: "15/07/2024", captura: ["capturas/Unidade 2/Expedição/2024/7- Julho/15.png"] },
             { data: "16/07/2024", captura: ["capturas/Unidade 2/Expedição/2024/7- Julho/16.png"] },
+            { data: "25/07/2024", captura: ["capturas/Unidade 2/Expedição/2024/7- Julho/25.png"] },
 
 
             // { data: "", captura: [""] },
@@ -301,6 +302,7 @@ const unidades = {
             { data: "15/07/2024", captura: ["capturas/Unidade 2/Estofaria/2024/7- Julho/.Estofadores/15-pt1.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/.Estofadores/15-pt2.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Colagem/15.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Costura/15.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Percinta/15.png"] },
             { data: "16/07/2024", captura: ["capturas/Unidade 2/Estofaria/2024/7- Julho/.Estofadores/16-pt1.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/.Estofadores/16-pt2.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Colagem/16.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Costura/16.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Percinta/16.png"] },
             { data: "17/07/2024", captura: ["capturas/Unidade 2/Estofaria/2024/7- Julho/.Estofadores/17-pt1.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/.Estofadores/17-pt2.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Colagem/17.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Costura/17.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Percinta/17.png"] },
+            { data: "25/07/2024", captura: ["capturas/Unidade 2/Estofaria/2024/7- Julho/.Estofadores/25-pt1.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/.Estofadores/25-pt2.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Colagem/25.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Costura/25.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Percinta/25.png"] },
 
 
             // { data: "", captura: ["", "", "", "", "", ""] },
@@ -2038,6 +2040,7 @@ const unidades = {
             { data: "04/07/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/7- Julho/01 colpany.jpg"] },
             { data: "16/07/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/7- Julho/08 colpany.jpg"] },
             { data: "19/07/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/7- Julho/15 colpany.jpg"] },
+            { data: "25/07/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/7- Julho/22 COLPANY.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -2082,6 +2085,7 @@ const unidades = {
             { data: "04/07/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/7- Julho/01 FAST GLASS.jpg"] },
             { data: "16/07/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/7- Julho/08 FAST GLASS.jpg"] },
             { data: "19/07/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/7- Julho/15 FAST GLASS.jpg"] },
+            { data: "25/07/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/7- Julho/22 FAST GLASS.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -2126,6 +2130,7 @@ const unidades = {
             { data: "04/07/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/7- Julho/01 FAST GLASS.jpg", "capturas/Qualidade fornecedor/vidros/2024/7- Julho/01 colpany.jpg"] },
             { data: "16/07/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/7- Julho/08 FAST GLASS.jpg", "capturas/Qualidade fornecedor/vidros/2024/7- Julho/08 colpany.jpg"] },
             { data: "19/07/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/7- Julho/15 FAST GLASS.jpg", "capturas/Qualidade fornecedor/vidros/2024/7- Julho/15 colpany.jpg"] },
+            { data: "25/07/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/7- Julho/22 FAST GLASS.jpg", "capturas/Qualidade fornecedor/vidros/2024/7- Julho/22 COLPANY.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
