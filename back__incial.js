@@ -691,6 +691,8 @@ const unidades = {
             { data: "30/07/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/7- Julho/30-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/7- Julho/30-pt2.jpeg"] },
 
             { data: "01/08/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/1-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/1-pt2.jpeg"] },
+            { data: "02/08/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/2-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/2-pt2.jpeg"] },
+            { data: "05/08/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/5-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/5-pt2.jpeg"] },
 
 
             // { data: "", captura: ["", ""] },
