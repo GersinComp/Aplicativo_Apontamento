@@ -400,6 +400,7 @@ const unidades = {
             { data: "23/07/2024", captura: ["capturas/Unidade 2/Acabamento/2024/7- Julho/Tingidor/23.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/Robô/23.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/PéTras/23.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/PéFrente/23.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/Montagem/23.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/LixaçãoFundoMaquininha/23.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/LixaçãoFundoManual/23.jpg"] },
             { data: "24/07/2024", captura: ["capturas/Unidade 2/Acabamento/2024/7- Julho/Tingidor/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/Robô/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/PéTras/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/PéFrente/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/Montagem/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/LixaçãoFundoMaquininha/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/LixaçãoFundoManual/25.jpg"] },
             { data: "25/07/2024", captura: ["capturas/Unidade 2/Acabamento/2024/7- Julho/Tingidor/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/Robô/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/PéTras/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/PéFrente/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/Montagem/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/LixaçãoFundoMaquininha/25.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/LixaçãoFundoManual/25.jpg"] },
+            { data: "26/07/2024", captura: ["capturas/Unidade 2/Acabamento/2024/7- Julho/Tingidor/26.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/Robô/26.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/PéTras/26.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/PéFrente/26.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/Montagem/26.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/LixaçãoFundoMaquininha/26.jpg", "capturas/Unidade 2/Acabamento/2024/7- Julho/LixaçãoFundoManual/26.jpg"] },
 
 
             // { data: "", captura: ["", "", "", "", "", "", ""] },
@@ -460,6 +461,7 @@ const unidades = {
             { data: "15/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Calibradora/15.jpg"] },
             { data: "24/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Calibradora/24.jpg"] },
             { data: "25/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Calibradora/25.jpg"] },
+            { data: "26/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Calibradora/26.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -486,6 +488,7 @@ const unidades = {
             { data: "15/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Prensas/15.jpg"] },
             { data: "24/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Prensas/24.jpg"] },
             { data: "25/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Prensas/25.jpg"] },
+            { data: "26/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Prensas/26.jpg"] },
 
 
             // { data: "", captura: [""] },
@@ -821,6 +824,8 @@ const unidades = {
             { data: "22/07/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/7- Julho/22 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/7- Julho/22 italpresse.jpg"] },
             { data: "23/07/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/7- Julho/23 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/7- Julho/23 italpresse.jpg"] },
             { data: "24/07/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/7- Julho/24 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/7- Julho/24  italpresse.jpg"] },
+            { data: "25/07/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/7- Julho/25 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/7- Julho/25  italpresse.jpg"] },
+            { data: "26/07/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/7- Julho/26 maquimovel.jpg", "capturas/Unidade 4/Tempo_parado/2024/7- Julho/26 italpresse.jpg"] },
 
 
             // { data: "", captura: ["", ""] },
