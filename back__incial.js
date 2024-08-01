@@ -242,6 +242,7 @@ const unidades = {
             { data: "26/07/2024", captura: ["capturas/Unidade 1/2024/7- Julho/Usinagem/Montagem/26.jpg"] },
             { data: "29/07/2024", captura: ["capturas/Unidade 1/2024/7- Julho/Usinagem/Montagem/29.jpg"] },
             { data: "30/07/2024", captura: ["capturas/Unidade 1/2024/7- Julho/Usinagem/Montagem/30.jpeg"] },
+            { data: "31/07/2024", captura: ["capturas/Unidade 1/2024/7- Julho/Usinagem/Montagem/31.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -281,6 +282,7 @@ const unidades = {
             { data: "25/07/2024", captura: ["capturas/Unidade 2/Expedição/2024/7- Julho/25.png"] },
             { data: "26/07/2024", captura: ["capturas/Unidade 2/Expedição/2024/7- Julho/26.png"] },
             { data: "29/07/2024", captura: ["capturas/Unidade 2/Expedição/2024/7- Julho/29.png"] },
+            { data: "31/07/2024", captura: ["capturas/Unidade 2/Expedição/2024/7- Julho/31.png"] },
 
 
             // { data: "", captura: [""] },
@@ -319,6 +321,7 @@ const unidades = {
             { data: "25/07/2024", captura: ["capturas/Unidade 2/Estofaria/2024/7- Julho/.Estofadores/25-pt1.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/.Estofadores/25-pt2.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Colagem/25.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Costura/25.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Percinta/25.png"] },
             { data: "26/07/2024", captura: ["capturas/Unidade 2/Estofaria/2024/7- Julho/.Estofadores/26-pt1.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/.Estofadores/26-pt2.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Colagem/26.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Costura/26.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Percinta/26.png"] },
             { data: "29/07/2024", captura: ["capturas/Unidade 2/Estofaria/2024/7- Julho/.Estofadores/29-pt1.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/.Estofadores/29-pt2.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Colagem/29.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Costura/29.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Percinta/29.png"] },
+            { data: "31/07/2024", captura: ["capturas/Unidade 2/Estofaria/2024/7- Julho/.Estofadores/31-pt1.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/.Estofadores/31-pt2.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Colagem/31.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Costura/31.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/Percinta/31.png", "capturas/Unidade 2/Estofaria/2024/7- Julho/zBordadeira/31.png"] },
 
 
             // { data: "", captura: ["", "", "", "", "", ""] },
