@@ -165,7 +165,7 @@ const unidades = {
             { data: "24/07/2024", captura: ["capturas/Unidade 1/2024/7- Julho/LixaçãoMetal/24.jpg", "capturas/Unidade 1/2024/7- Julho/LixaçãoOsso/24.jpg"] },
             { data: "25/07/2024", captura: ["capturas/Unidade 1/2024/7- Julho/LixaçãoMetal/25.jpg", "capturas/Unidade 1/2024/7- Julho/LixaçãoOsso/25.jpg"] },
             { data: "29/07/2024", captura: ["capturas/Unidade 1/2024/7- Julho/LixaçãoMetal/29.jpg", "capturas/Unidade 1/2024/7- Julho/LixaçãoOsso/29.jpg", "capturas/Unidade 1/2024/7- Julho/QuadroMetas/29.png"] },
-            { data: "30/07/2024", captura: ["capturas/Unidade 1/2024/7- Julho/LixaçãoOsso/30.jpeg"] },
+            { data: "30/07/2024", captura: ["capturas/Unidade 1/2024/7- Julho/QuadroMetas/31.png", "capturas/Unidade 1/2024/7- Julho/LixaçãoOsso/30.jpeg"] },
 
 
             // { data: "", captura: ["", "", ""] },
@@ -446,6 +446,7 @@ const unidades = {
             { data: "16/07/2024", captura: ["capturas/Unidade 3/Usinagem/2024/7- Julho/16.png"] },
             { data: "23/07/2024", captura: ["capturas/Unidade 3/Usinagem/2024/7- Julho/23.png"] },
             { data: "29/07/2024", captura: ["capturas/Unidade 3/Usinagem/2024/7- Julho/29.png"] },
+            { data: "31/08/2024", captura: ["capturas/Unidade 3/Usinagem/2024/7- Julho/31.png"] },
 
 
             // { data: "", captura: [""] },
@@ -714,6 +715,10 @@ const unidades = {
             { data: "01/08/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/1-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/1-pt2.jpeg"] },
             { data: "02/08/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/2-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/2-pt2.jpeg"] },
             { data: "05/08/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/5-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/5-pt2.jpeg"] },
+            { data: "06/08/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/6-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/6-pt2.jpeg"] },
+            { data: "07/08/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/7-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/7-pt2.jpeg"] },
+            { data: "08/08/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/8-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/8-pt2.jpeg"] },
+            { data: "09/08/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/9-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/9-pt2.jpeg"] },
 
 
             // { data: "", captura: ["", ""] },
