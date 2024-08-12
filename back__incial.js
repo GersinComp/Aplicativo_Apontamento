@@ -303,6 +303,7 @@ const unidades = {
 
             { data: "02/08/2024", captura: ["capturas/Unidade 2/Usinagem/2024/8- Agosto/CNC/2-pt1.jpg", "capturas/Unidade 2/Usinagem/2024/8- Agosto/CNC/2-pt2.jpg"] },
             { data: "05/08/2024", captura: ["capturas/Unidade 2/Usinagem/2024/8- Agosto/CNC/5-pt1.png", "capturas/Unidade 2/Usinagem/2024/8- Agosto/CNC/5-pt2.png"] },
+            { data: "12/08/2024", captura: ["capturas/Unidade 2/Usinagem/2024/8- Agosto/CNC/9-pt1.png", "capturas/Unidade 2/Usinagem/2024/8- Agosto/CNC/9-pt2.png"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -1368,6 +1369,7 @@ const unidades = {
             { data: "29/07/2024", captura: ["capturas/Retrabalhos/2024/7- Julho/Unidade 2/Curvados/29 part 01.jpeg", "capturas/Retrabalhos/2024/7- Julho/Unidade 2/Curvados/29 part 02.jpeg", "capturas/Retrabalhos/2024/7- Julho/Unidade 2/Curvados/29 g.jpeg"] },
             
             { data: "02/08/2024", captura: ["capturas/Retrabalhos/2024/8- Agosto/Unidade 2/Curvados/02 parte 01.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 2/Curvados/02 parte 02.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 2/Curvados/3g.jpeg"] },
+            { data: "12/08/2024", captura: ["capturas/Retrabalhos/2024/8- Agosto/Unidade 2/Curvados/09 parte 01.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 2/Curvados/09 parte 02.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 2/Curvados/9g.jpeg"] },
 
 
             // { data: "", captura: ["", "", "", "", ""] },
@@ -1848,6 +1850,7 @@ const unidades = {
             { data: "26/07/2024", captura: ["capturas/Retrabalhos/2024/7- Julho/Unidade 3/26-pt1.png", "capturas/Retrabalhos/2024/7- Julho/Unidade 3/26-pt2.jpeg", "capturas/Retrabalhos/2024/7- Julho/Unidade 3/26-pt3.jpeg"] },
 
             { data: "02/08/2024", captura: ["capturas/Retrabalhos/2024/8- Agosto/Unidade 3/02 parte 01.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 3/02 parte 02.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 3/02 parte 03.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 3/02 parte 04.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 3/2 g.jpeg"] },
+            { data: "12/08/2024", captura: ["capturas/Retrabalhos/2024/8- Agosto/Unidade 3/09 parte 01.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 3/09 parte 02.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 3/09 parte 03.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 3/09 parte 04.jpeg", "capturas/Retrabalhos/2024/8- Agosto/Unidade 3/09 g.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -1943,6 +1946,7 @@ const unidades = {
             { data: "19/07/2024", captura: ["capturas/Retrabalhos/2024/7- Julho/ADM/semana3/transporteMotivos.jpg", "capturas/Retrabalhos/2024/7- Julho/ADM/semana3/transporteGrafico.jpeg", "capturas/Retrabalhos/2024/7- Julho/ADM/semana3/pcpMotivos.jpeg", "capturas/Retrabalhos/2024/7- Julho/ADM/semana3/pcpGrafico.png", "capturas/Retrabalhos/2024/7- Julho/ADM/semana3/assistComercialMotivo.png", "capturas/Retrabalhos/2024/7- Julho/ADM/semana3/assistComercialGrafico.png"] },
 
             { data: "02/08/2024", captura: ["capturas/Retrabalhos/2024/7- Julho/ADM/semana5/transporte-01.jpg", "capturas/Retrabalhos/2024/7- Julho/ADM/semana5/transporteGeral.jpg", "capturas/Retrabalhos/2024/7- Julho/ADM/semana5/pcp-01.jpeg", "capturas/Retrabalhos/2024/7- Julho/ADM/semana5/pcpGrafico.jpeg", "capturas/Retrabalhos/2024/7- Julho/ADM/semana5/programação-01.jpeg", "capturas/Retrabalhos/2024/7- Julho/ADM/semana5/programaçãoGrafico.jpeg", "capturas/Retrabalhos/2024/7- Julho/ADM/semana5/geral.jpeg"] },
+            { data: "12/08/2024", captura: ["capturas/Retrabalhos/2024/8- Agosto/ADM/semana1/transporte01png.png", "capturas/Retrabalhos/2024/8- Agosto/ADM/semana1/transporteGrafico.png", "capturas/Retrabalhos/2024/8- Agosto/ADM/semana1/pcp01.png", "capturas/Retrabalhos/2024/8- Agosto/ADM/semana1/pcpGrafico.png", "capturas/Retrabalhos/2024/8- Agosto/ADM/semana1/compras01.png", "capturas/Retrabalhos/2024/8- Agosto/ADM/semana1/comprasGrafico.png", "capturas/Retrabalhos/2024/8- Agosto/ADM/semana1/cadastro01.png", "capturas/Retrabalhos/2024/8- Agosto/ADM/semana1/cadastroGrafico.png", "capturas/Retrabalhos/2024/8- Agosto/ADM/semana1/assist.Comercial01.png", "capturas/Retrabalhos/2024/8- Agosto/ADM/semana1/assist.ComercialGrafico.png", "capturas/Retrabalhos/2024/8- Agosto/ADM/semana1/graficoGeral1.jpeg"] },
 
             
         //    { data: "", captura: ["", "", "", ""] },
