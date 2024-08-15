@@ -474,6 +474,8 @@ const unidades = {
             { data: "29/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Prensas/29.jpeg"] },
             { data: "31/07/2024", captura: ["capturas/Unidade 4/Usinagem/2024/7- Julho/Prensas/31.jpeg"] },
 
+            { data: "14/08/2024", captura: ["capturas/Unidade 4/Usinagem/2024/8- Agosto/Prensas/14.jpeg"] },
+
 
             // { data: "", captura: [""] },
             // { data: "", captura: [""] },
@@ -553,6 +555,9 @@ const unidades = {
             { data: "20/08/2024", captura: ["capturas/Metas produção/Unidade 1/2024/cg_mq/8- Agosto/20.jpeg"] },
             { data: "21/08/2024", captura: ["capturas/Metas produção/Unidade 1/2024/cg_mq/8- Agosto/21.jpeg"] },
             { data: "22/08/2024", captura: ["capturas/Metas produção/Unidade 1/2024/cg_mq/8- Agosto/22.jpeg"] },
+            { data: "23/08/2024", captura: ["capturas/Metas produção/Unidade 1/2024/cg_mq/8- Agosto/23.jpeg"] },
+            { data: "26/08/2024", captura: ["capturas/Metas produção/Unidade 1/2024/cg_mq/8- Agosto/26.jpeg"] },
+            { data: "27/08/2024", captura: ["capturas/Metas produção/Unidade 1/2024/cg_mq/8- Agosto/27.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -839,6 +844,18 @@ const unidades = {
             { data: "30/07/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/7- Julho/30 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2024/7- Julho/30 ITALPRESSE.jpeg"] },
             { data: "31/07/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/7- Julho/31 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2024/7- Julho/31 ITALPRESSE.jpeg"] },
 
+            { data: "01/08/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/8- Agosto/01 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2024/8- Agosto/01 italpresse.jpeg"] },
+            { data: "02/08/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/8- Agosto/02 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2024/8- Agosto/02 italpresse.jpeg"] },
+            { data: "05/08/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/8- Agosto/05 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2024/8- Agosto/05 italpresse.jpeg"] },
+            { data: "06/08/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/8- Agosto/06 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2024/8- Agosto/06 italpresse.jpeg"] },
+            { data: "07/08/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/8- Agosto/07 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2024/8- Agosto/07 italpresse.jpeg"] },
+            { data: "08/08/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/8- Agosto/08 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2024/8- Agosto/08 italpresse.jpeg"] },
+            { data: "09/08/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/8- Agosto/09 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2024/8- Agosto/09 italpresse.jpeg"] },
+            { data: "10/08/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/8- Agosto/10 italpresse.jpeg"] },
+            { data: "12/08/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/8- Agosto/12 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2024/8- Agosto/12 italpresse.jpeg"] },
+            { data: "13/08/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/8- Agosto/13 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2024/8- Agosto/13 italpresse.jpeg"] },
+            { data: "14/08/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/8- Agosto/14 maquimovel.jpeg", "capturas/Unidade 4/Tempo_parado/2024/8- Agosto/14 italpresse.jpeg"] },
+            
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
