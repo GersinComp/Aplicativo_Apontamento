@@ -714,7 +714,9 @@ const unidades = {
             { data: "15/08/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/15-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/15-pt2.jpeg"] },
             { data: "16/08/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/16-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/16-pt2.jpeg"] },
             { data: "19/08/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/19-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/19-pt2.jpeg"] },
-
+            { data: "20/08/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/20-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/20-pt2.jpeg"] },
+            { data: "21/08/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/21-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/21-pt2.jpeg"] },
+            { data: "22/08/2024", captura: ["capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/22-pt1.jpeg", "capturas/Metas produção/Unidade 4/2024/cg_mq/8- Agosto/22-pt2.jpeg"] },
 
             // { data: "", captura: ["", ""] },
             // { data: "", captura: ["", ""] },
