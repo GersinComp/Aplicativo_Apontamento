@@ -273,6 +273,7 @@ const unidades = {
             { data: "20/08/2024", captura: ["capturas/Unidade 2/Estofaria/2024/8- Agosto/.Estofadores/20-pt1.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/.Estofadores/20-pt2.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/Colagem/20.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/Costura/20.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/Percinta/20.png"] },
             { data: "21/08/2024", captura: ["capturas/Unidade 2/Estofaria/2024/8- Agosto/.Estofadores/21-pt1.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/.Estofadores/21-pt2.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/Colagem/21.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/Costura/21.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/Percinta/21.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/zBordadeira/21.png"] },
             { data: "22/08/2024", captura: ["capturas/Unidade 2/Estofaria/2024/8- Agosto/.Estofadores/22-pt1.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/.Estofadores/22-pt2.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/Colagem/22.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/Costura/22.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/Percinta/22.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/zBordadeira/22.png"] },
+            { data: "23/08/2024", captura: ["capturas/Unidade 2/Estofaria/2024/8- Agosto/.Estofadores/23-pt1.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/.Estofadores/23-pt2.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/Colagem/23.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/Costura/23.png", "capturas/Unidade 2/Estofaria/2024/8- Agosto/Percinta/23.png"] },
 
 
             // { data: "", captura: ["", "", "", "", "", ""] },
@@ -308,6 +309,7 @@ const unidades = {
             { data: "20/08/2024", captura: ["capturas/Unidade 2/Expedição/2024/8- Agosto/20.png"] },
             { data: "21/08/2024", captura: ["capturas/Unidade 2/Expedição/2024/8- Agosto/21.png"] },
             { data: "22/08/2024", captura: ["capturas/Unidade 2/Expedição/2024/8- Agosto/22.png"] },
+            { data: "23/08/2024", captura: ["capturas/Unidade 2/Expedição/2024/8- Agosto/23.png"] },
 
 
             // { data: "", captura: [""] },
