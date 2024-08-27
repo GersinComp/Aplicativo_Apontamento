@@ -167,7 +167,7 @@ const unidades = {
             { data: "21/08/2024", captura: ["capturas/Unidade 1/2024/8- Agosto/LixaçãoMetal/21.jpeg", "capturas/Unidade 1/2024/8- Agosto/LixaçãoOsso/21.jpeg", "capturas/Unidade 1/2024/8- Agosto/QuadroMetas/21.jpeg"] },
             { data: "22/08/2024", captura: ["capturas/Unidade 1/2024/8- Agosto/LixaçãoMetal/22.jpeg", "capturas/Unidade 1/2024/8- Agosto/LixaçãoOsso/22.jpeg", "capturas/Unidade 1/2024/8- Agosto/QuadroMetas/22.jpeg"] },
             { data: "23/08/2024", captura: ["capturas/Unidade 1/2024/8- Agosto/LixaçãoMetal/23.jpeg", "capturas/Unidade 1/2024/8- Agosto/LixaçãoOsso/23.jpeg", "capturas/Unidade 1/2024/8- Agosto/QuadroMetas/23.jpeg"] },
-            { data: "26/08/2024", captura: ["capturas/Unidade 1/2024/8- Agosto/QuadroMetas/26.jpeg"] },
+            { data: "26/08/2024", captura: ["capturas/Unidade 1/2024/8- Agosto/LixaçãoMetal/26.jpeg", "capturas/Unidade 1/2024/8- Agosto/LixaçãoOsso/26.jpeg", "capturas/Unidade 1/2024/8- Agosto/QuadroMetas/26.jpeg"] },
 
 
             // { data: "", captura: ["", "", ""] },
