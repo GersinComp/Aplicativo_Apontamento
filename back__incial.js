@@ -166,6 +166,7 @@ const unidades = {
             { data: "09/09/2024", captura: ["capturas/Unidade 1/2024/9- Setembro/LixaçãoMetal/09.jpeg", "capturas/Unidade 1/2024/9- Setembro/LixaçãoOsso/09.jpeg", "capturas/Unidade 1/2024/9- Setembro/Lix.Fundo/09.jpeg"] },
             { data: "10/09/2024", captura: ["capturas/Unidade 1/2024/9- Setembro/LixaçãoMetal/10.jpeg", "capturas/Unidade 1/2024/9- Setembro/LixaçãoOsso/10.jpeg"] },
             { data: "11/09/2024", captura: ["capturas/Unidade 1/2024/9- Setembro/LixaçãoMetal/11.jpeg", "capturas/Unidade 1/2024/9- Setembro/LixaçãoOsso/11.jpeg", "capturas/Unidade 1/2024/9- Setembro/Lix.Fundo/11.jpeg"] },
+            { data: "12/09/2024", captura: ["capturas/Unidade 1/2024/9- Setembro/LixaçãoMetal/12.jpeg", "capturas/Unidade 1/2024/9- Setembro/LixaçãoOsso/12.jpeg", "capturas/Unidade 1/2024/9- Setembro/Lix.Fundo/12.jpeg"] },
 
 
             // { data: "", captura: ["", "", ""] },
@@ -199,6 +200,7 @@ const unidades = {
             { data: "09/09/2024", captura: ["capturas/Unidade 1/2024/9- Setembro/Usinagem/Filetação/09.jpeg"] },
             { data: "10/09/2024", captura: ["capturas/Unidade 1/2024/9- Setembro/Usinagem/Filetação/10.jpeg"] },
             { data: "11/09/2024", captura: ["capturas/Unidade 1/2024/9- Setembro/Usinagem/Filetação/11.jpeg", "capturas/Unidade 1/2024/9- Setembro/Usinagem/Tupia/11.jpeg"] },
+            { data: "12/09/2024", captura: ["capturas/Unidade 1/2024/9- Setembro/Usinagem/Filetação/12.jpeg"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -234,6 +236,7 @@ const unidades = {
             { data: "09/09/2024", captura: ["capturas/Unidade 1/2024/9- Setembro/Usinagem/Montagem/09.jpeg"] },
             { data: "10/09/2024", captura: ["capturas/Unidade 1/2024/9- Setembro/Usinagem/Montagem/10.jpeg"] },
             { data: "11/09/2024", captura: ["capturas/Unidade 1/2024/9- Setembro/Usinagem/Montagem/11.jpeg"] },
+            { data: "12/09/2024", captura: ["capturas/Unidade 1/2024/9- Setembro/Usinagem/Montagem/12.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -270,6 +273,7 @@ const unidades = {
             { data: "09/09/2024", captura: ["capturas/Unidade 2/Estofaria/2024/9- Setembro/.Estofadores/9-pt1.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/.Estofadores/9-pt2.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Colagem/9.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Costura/9.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Percinta/9.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/zBordadeira/9.png"] },
             { data: "10/09/2024", captura: ["capturas/Unidade 2/Estofaria/2024/9- Setembro/.Estofadores/10-pt1.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/.Estofadores/10-pt2.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Colagem/10.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Costura/10.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Percinta/10.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/zBordadeira/10.png"] },
             { data: "11/09/2024", captura: ["capturas/Unidade 2/Estofaria/2024/9- Setembro/.Estofadores/11-pt1.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/.Estofadores/11-pt2.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Colagem/11.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Costura/11.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Percinta/11.png"] },
+            { data: "12/09/2024", captura: ["capturas/Unidade 2/Estofaria/2024/9- Setembro/.Estofadores/12-pt1.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/.Estofadores/12-pt2.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Colagem/12.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Costura/12.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Percinta/12.png"] },
 
 
             // { data: "", captura: ["", "", "", "", "", ""] },
@@ -304,6 +308,7 @@ const unidades = {
             { data: "09/09/2024", captura: ["capturas/Unidade 2/Expedição/2024/9- Setembro/9.png"] },
             { data: "10/09/2024", captura: ["capturas/Unidade 2/Expedição/2024/9- Setembro/10.png"] },
             { data: "11/09/2024", captura: ["capturas/Unidade 2/Expedição/2024/9- Setembro/11.png"] },
+            { data: "12/09/2024", captura: ["capturas/Unidade 2/Expedição/2024/9- Setembro/12.png"] },
 
 
             // { data: "", captura: [""] },
@@ -335,6 +340,8 @@ const unidades = {
             { data: "03/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/3-pt1.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/3-pt2.png"] },
             { data: "06/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/6-pt1.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/6-pt2.png"] },
             { data: "10/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/10-pt1.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/10-pt2.png"] },
+            { data: "11/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/11-pt1.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/11-pt2.png"] },
+            { data: "12/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/12-pt1.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/12-pt2.png"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -368,6 +375,7 @@ const unidades = {
             { data: "09/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/Rolinho/9.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Roquite/9.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Usinagem/9.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Mont.Us/9.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/MM/9.png"] },
             { data: "10/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/Rolinho/10.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Roquite/10.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Usinagem/10.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Mont.Us/10.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/MM/10.png"] },
             { data: "11/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/Rolinho/11.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Roquite/11.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Usinagem/11.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Mont.Us/11.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/MM/11.png"] },
+            { data: "12/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/Rolinho/12.png"] },
 
 
             // { data: "", captura: ["", "", "", "", ""] },
@@ -399,6 +407,7 @@ const unidades = {
             { data: "05/09/2024", captura: ["capturas/Unidade 2/Acabamento/2024/9- Setembro/Tingidor/5.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/Robô/5.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/PéTras/05.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/PéFrente/5.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/Montagem/5.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/LixaçãoFundoMaquininha/5.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/LixaçãoFundoManual/5.jpeg"] },
             { data: "09/09/2024", captura: ["capturas/Unidade 2/Acabamento/2024/9- Setembro/Tingidor/9.png", "capturas/Unidade 2/Acabamento/2024/9- Setembro/Robô/9.png", "capturas/Unidade 2/Acabamento/2024/9- Setembro/PéTras/9.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/PéFrente/9.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/Montagem/9.png", "capturas/Unidade 2/Acabamento/2024/9- Setembro/LixaçãoFundoMaquininha/9.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/LixaçãoFundoManual/09.jpeg"] },
             { data: "10/09/2024", captura: ["capturas/Unidade 2/Acabamento/2024/9- Setembro/Tingidor/10.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/Robô/10.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/PéTras/10.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/PéFrente/10.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/Montagem/10.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/LixaçãoFundoMaquininha/10.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/LixaçãoFundoManual/10.jpeg"] },
+            { data: "11/09/2024", captura: ["capturas/Unidade 2/Acabamento/2024/9- Setembro/Tingidor/11.png", "capturas/Unidade 2/Acabamento/2024/9- Setembro/Robô/11.png", "capturas/Unidade 2/Acabamento/2024/9- Setembro/PéTras/11.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/PéFrente/11.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/Montagem/11.png", "capturas/Unidade 2/Acabamento/2024/9- Setembro/LixaçãoFundoMaquininha/11.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/LixaçãoFundoManual/11.jpeg"] },
 
 
             // { data: "", captura: ["", "", "", "", "", "", ""] },
@@ -465,6 +474,7 @@ const unidades = {
             { data: "04/09/2024", captura: ["capturas/Unidade 4/Usinagem/2024/9- Setembro/Calibradora/04.jpeg"] },
             { data: "09/09/2024", captura: ["capturas/Unidade 4/Usinagem/2024/9- Setembro/Calibradora/09.jpeg"] },
             { data: "10/09/2024", captura: ["capturas/Unidade 4/Usinagem/2024/9- Setembro/Calibradora/10.jpeg"] },
+            { data: "11/09/2024", captura: ["capturas/Unidade 4/Usinagem/2024/9- Setembro/Calibradora/11.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -493,6 +503,7 @@ const unidades = {
             { data: "04/09/2024", captura: ["capturas/Unidade 4/Usinagem/2024/9- Setembro/Prensas/04.jpeg"] },
             { data: "09/09/2024", captura: ["capturas/Unidade 4/Usinagem/2024/9- Setembro/Prensas/09.jpeg"] },
             { data: "10/09/2024", captura: ["capturas/Unidade 4/Usinagem/2024/9- Setembro/Prensas/10.jpeg"] },
+            { data: "11/09/2024", captura: ["capturas/Unidade 4/Usinagem/2024/9- Setembro/Prensas/11.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -943,6 +954,7 @@ const unidades = {
             { data: "07/09/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/9- Setembro/07 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2024/9- Setembro/07 ITALPRESSE.jpeg"] },
             { data: "09/09/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/9- Setembro/09 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2024/9- Setembro/09 ITALPRESSE.jpeg"] },
             { data: "10/09/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/9- Setembro/10 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2024/9- Setembro/10 ITALPRESSE.jpeg"] },
+            { data: "11/09/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/9- Setembro/11 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2024/9- Setembro/11 ITALPRESSE.jpeg"] },
 
 
             // { data: "", captura: ["", ""] },
