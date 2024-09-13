@@ -408,6 +408,7 @@ const unidades = {
             { data: "09/09/2024", captura: ["capturas/Unidade 2/Acabamento/2024/9- Setembro/Tingidor/9.png", "capturas/Unidade 2/Acabamento/2024/9- Setembro/Robô/9.png", "capturas/Unidade 2/Acabamento/2024/9- Setembro/PéTras/9.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/PéFrente/9.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/Montagem/9.png", "capturas/Unidade 2/Acabamento/2024/9- Setembro/LixaçãoFundoMaquininha/9.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/LixaçãoFundoManual/09.jpeg"] },
             { data: "10/09/2024", captura: ["capturas/Unidade 2/Acabamento/2024/9- Setembro/Tingidor/10.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/Robô/10.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/PéTras/10.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/PéFrente/10.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/Montagem/10.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/LixaçãoFundoMaquininha/10.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/LixaçãoFundoManual/10.jpeg"] },
             { data: "11/09/2024", captura: ["capturas/Unidade 2/Acabamento/2024/9- Setembro/Tingidor/11.png", "capturas/Unidade 2/Acabamento/2024/9- Setembro/Robô/11.png", "capturas/Unidade 2/Acabamento/2024/9- Setembro/PéTras/11.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/PéFrente/11.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/Montagem/11.png", "capturas/Unidade 2/Acabamento/2024/9- Setembro/LixaçãoFundoMaquininha/11.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/LixaçãoFundoManual/11.jpeg"] },
+            { data: "12/09/2024", captura: ["capturas/Unidade 2/Acabamento/2024/9- Setembro/Tingidor/12.png", "capturas/Unidade 2/Acabamento/2024/9- Setembro/Robô/12.png", "capturas/Unidade 2/Acabamento/2024/9- Setembro/PéTras/12.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/PéFrente/12.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/Montagem/12.png", "capturas/Unidade 2/Acabamento/2024/9- Setembro/LixaçãoFundoMaquininha/12.jpeg", "capturas/Unidade 2/Acabamento/2024/9- Setembro/LixaçãoFundoManual/12.jpeg"] },
 
 
             // { data: "", captura: ["", "", "", "", "", "", ""] },
@@ -2394,6 +2395,7 @@ const unidades = {
             { data: "29/08/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/8- Agosto/30 colpany.jpeg"] },
             
             { data: "02/09/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/9- Setembro/02 colpany.jpeg"] },
+            { data: "09/09/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/9- Setembro/09 colpany.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -2447,6 +2449,7 @@ const unidades = {
             { data: "29/08/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/8- Agosto/30 Fast glass.jpeg"] },
 
             { data: "02/09/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/9- Setembro/02 fast.jpeg"] },
+            { data: "09/09/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/9- Setembro/09 fast.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -2500,6 +2503,7 @@ const unidades = {
             { data: "29/08/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/8- Agosto/30 Fast glass.jpeg", "capturas/Qualidade fornecedor/vidros/2024/8- Agosto/30 colpany.jpeg"] },
 
             { data: "02/09/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/9- Setembro/02 fast.jpeg", "capturas/Qualidade fornecedor/vidros/2024/9- Setembro/02 colpany.jpeg"] },
+            { data: "09/09/2024", captura: ["capturas/Qualidade fornecedor/vidros/2024/9- Setembro/09 fast.jpeg", "capturas/Qualidade fornecedor/vidros/2024/9- Setembro/09 colpany.jpeg"] },
 
 
             // { data: "", captura: ["", ""] },
