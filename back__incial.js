@@ -487,6 +487,7 @@ const unidades = {
             { data: "10/09/2024", captura: ["capturas/Unidade 4/Usinagem/2024/9- Setembro/Calibradora/10.jpeg"] },
             { data: "11/09/2024", captura: ["capturas/Unidade 4/Usinagem/2024/9- Setembro/Calibradora/11.jpeg"] },
             { data: "12/09/2024", captura: ["capturas/Unidade 4/Usinagem/2024/9- Setembro/Calibradora/12.jpeg"] },
+            { data: "13/09/2024", captura: ["capturas/Unidade 4/Usinagem/2024/9- Setembro/Calibradora/13.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -517,6 +518,7 @@ const unidades = {
             { data: "10/09/2024", captura: ["capturas/Unidade 4/Usinagem/2024/9- Setembro/Prensas/10.jpeg"] },
             { data: "11/09/2024", captura: ["capturas/Unidade 4/Usinagem/2024/9- Setembro/Prensas/11.jpeg"] },
             { data: "12/09/2024", captura: ["capturas/Unidade 4/Usinagem/2024/9- Setembro/Prensas/12.jpeg"] },
+            { data: "13/09/2024", captura: ["capturas/Unidade 4/Usinagem/2024/9- Setembro/Prensas/13.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -969,6 +971,8 @@ const unidades = {
             { data: "10/09/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/9- Setembro/10 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2024/9- Setembro/10 ITALPRESSE.jpeg"] },
             { data: "11/09/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/9- Setembro/11 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2024/9- Setembro/11 ITALPRESSE.jpeg"] },
             { data: "12/09/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/9- Setembro/12 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2024/9- Setembro/12 ITALPRESSE.jpeg"] },
+            { data: "13/09/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/9- Setembro/13 MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2024/9- Setembro/13 ITALPRESSE.jpeg"] },
+            { data: "14/09/2024", captura: ["capturas/Unidade 4/Tempo_parado/2024/9- Setembro/14  MAQUIMOVEL.jpeg", "capturas/Unidade 4/Tempo_parado/2024/9- Setembro/14  ITALPRESSE.jpeg"] },
 
 
             // { data: "", captura: ["", ""] },
