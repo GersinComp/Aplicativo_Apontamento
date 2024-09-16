@@ -278,6 +278,7 @@ const unidades = {
             { data: "10/09/2024", captura: ["capturas/Unidade 2/Estofaria/2024/9- Setembro/.Estofadores/10-pt1.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/.Estofadores/10-pt2.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Colagem/10.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Costura/10.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Percinta/10.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/zBordadeira/10.png"] },
             { data: "11/09/2024", captura: ["capturas/Unidade 2/Estofaria/2024/9- Setembro/.Estofadores/11-pt1.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/.Estofadores/11-pt2.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Colagem/11.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Costura/11.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Percinta/11.png"] },
             { data: "12/09/2024", captura: ["capturas/Unidade 2/Estofaria/2024/9- Setembro/.Estofadores/12-pt1.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/.Estofadores/12-pt2.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Colagem/12.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Costura/12.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Percinta/12.png"] },
+            { data: "13/09/2024", captura: ["capturas/Unidade 2/Estofaria/2024/9- Setembro/.Estofadores/13-pt1.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/.Estofadores/13-pt2.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Colagem/13.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Costura/13.png", "capturas/Unidade 2/Estofaria/2024/9- Setembro/Percinta/13.png"] },
 
 
             // { data: "", captura: ["", "", "", "", "", ""] },
@@ -313,6 +314,7 @@ const unidades = {
             { data: "10/09/2024", captura: ["capturas/Unidade 2/Expedição/2024/9- Setembro/10.png"] },
             { data: "11/09/2024", captura: ["capturas/Unidade 2/Expedição/2024/9- Setembro/11.png"] },
             { data: "12/09/2024", captura: ["capturas/Unidade 2/Expedição/2024/9- Setembro/12.png"] },
+            { data: "13/09/2024", captura: ["capturas/Unidade 2/Expedição/2024/9- Setembro/13.png"] },
 
 
             // { data: "", captura: [""] },
@@ -346,6 +348,7 @@ const unidades = {
             { data: "10/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/10-pt1.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/10-pt2.png"] },
             { data: "11/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/11-pt1.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/11-pt2.png"] },
             { data: "12/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/12-pt1.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/12-pt2.png"] },
+            { data: "13/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/13-pt1.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/CNC/13-pt2.png"] },
 
 
             // { data: "", captura: ["", ""] },
@@ -380,6 +383,7 @@ const unidades = {
             { data: "10/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/Rolinho/10.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Roquite/10.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Usinagem/10.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Mont.Us/10.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/MM/10.png"] },
             { data: "11/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/Rolinho/11.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Roquite/11.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Usinagem/11.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Mont.Us/11.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/MM/11.png"] },
             { data: "12/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/Rolinho/12.png"] },
+            { data: "13/09/2024", captura: ["capturas/Unidade 2/Usinagem/2024/9- Setembro/Rolinho/14.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Roquite/13.png", "capturas/Unidade 2/Usinagem/2024/9- Setembro/Mont.Us/14.png"] },
 
 
             // { data: "", captura: ["", "", "", "", ""] },
