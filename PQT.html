@@ -74,7 +74,8 @@
                 <a class="link__menu" href="#UP3">Unidade 3</a>
                 <a class="link__menu" href="#UP4">Unidade 4</a>
                 <a class="link__menu" href="#UP5">Almoxarifado</a>
-                <!-- <a class="link__menu" href="#UPG">Geral</a> -->
+                <a class="link__menu" href="#UP6">Manutenção</a>
+                <a class="link__menu" href="#UPG">Geral</a>
             </nav>
 
             <article id="UP1" class="unidade">
@@ -298,6 +299,48 @@
                 </div>
             </article>
 
+            <article id="UP6" class="unidade">
+                <h6 class="titulo_h6">MANUTENÇÃO</h6>
+                <div class="centralizar estilo__carregando" id="loadingMessage_UP6">
+                    <div class="spinner-border text-success" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+
+                <div class="setores centralizar">
+                    <div>
+                        <div class="centralizar ocultar">
+                            <label class="label__" for="dataInput_UP6">Selecione uma data:</label>
+                            <input class="input__" type="date" id="dataInput_UP6">
+                        </div>
+
+                        <div class="centralizar ocultar">
+                            <label class="label__" for="setorSelect_UP6">Selecione um setor:</label> 
+                            <select class="select__" id="setorSelect_UP6" onchange="atualizarInputData('UP6')">
+                                <option class="option__" ></option>
+                                <option class="option__" value="UnManutencao">Manutenção</option>
+                            </select>                    
+                        </div>
+
+                        <div id="detalhesContainer_UP6" class="estilo__detalhes"></div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="diaAnterior('UP6')">⇽</button>
+                            <button class="botao__" onclick="exibirInformação('UP6')">🔍</button>
+                            <button class="botao__" onclick="proximoDia('UP6')">⇾</button>
+                        </div>
+
+                        <div class="btt__nav">
+                            <button class="botao__" onclick="voltar('UP6')">Voltar</button>
+                            <button class="botao__" onclick="limparDetalhes('UP6')">Limpar</button>
+                        </div>
+
+                        <div id="detalhesContainer_alert_UP6" class="centralizar estilo__alerta"></div>
+
+                    </div>
+                </div>
+            </article>
+
             <article id="UPG" class="unidade">
                 <h6 class="titulo_h6">COMPARATIVO GERAL</h6>
                 <div class="centralizar estilo__carregando" id="loadingMessage_UPG">
@@ -340,6 +383,7 @@
                     </div>
                 </div>
             </article>
+
         </section>
     </main>
     

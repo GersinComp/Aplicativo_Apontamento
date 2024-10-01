@@ -277,6 +277,7 @@ const unidades = {
             { data: "25/09/2024", captura: ["capturas/Unidade 1/2024/9- Setembro/Usinagem/Montagem/25.jpeg"] },
             { data: "26/09/2024", captura: ["capturas/Unidade 1/2024/9- Setembro/Usinagem/Montagem/26.jpeg"] },
             { data: "27/09/2024", captura: ["capturas/Unidade 1/2024/9- Setembro/Usinagem/Montagem/27.jpeg"] },
+            { data: "30/09/2024", captura: ["capturas/Unidade 1/2024/9- Setembro/Usinagem/Montagem/30.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -2419,6 +2420,7 @@ const unidades = {
             { data: "26/06/2024", captura: ["capturas/PQT/2024/6- Junho/un1-pt1.jpeg", "capturas/PQT/2024/6- Junho/un1-pt2.jpeg"] },
             { data: "31/07/2024", captura: ["capturas/PQT/2024/7- Julho/conformidadesUnidade1-pt1.jpeg", "capturas/PQT/2024/7- Julho/conformidadesUnidade1-pt2.jpeg", "capturas/PQT/2024/7- Julho/graficoUnidade1.jpeg"] },
             { data: "30/08/2024", captura: ["capturas/PQT/2024/8- Agosto/un1_notas.jpeg", "capturas/PQT/2024/8- Agosto/conformidades_un1_pt1.jpeg", "capturas/PQT/2024/8- Agosto/conformidades_un1_pt2.jpeg"] },
+            { data: "01/10/2024", captura: ["capturas/PQT/2024/9- Setembro/unidade1_grafico.jpeg", "capturas/PQT/2024/9- Setembro/unidade1_nao_conformidades_pt1.jpeg", "capturas/PQT/2024/9- Setembro/unidade1_nao_conformidades_pt2.jpeg"] },
 
 
             // { data: "", captura: ["", "", ""] },
@@ -2435,6 +2437,7 @@ const unidades = {
             { data: "26/06/2024", captura: ["capturas/PQT/2024/6- Junho/un2-pt1.jpeg", "capturas/PQT/2024/6- Junho/un2-pt2.jpeg", "capturas/PQT/2024/6- Junho/un2-pt3.jpeg"] },
             { data: "31/07/2024", captura: ["capturas/PQT/2024/7- Julho/conformidadesUnidade2-pt1.jpeg", "capturas/PQT/2024/7- Julho/conformidadesUnidade2-pt2.jpeg", "capturas/PQT/2024/7- Julho/graficoUnidade2.jpeg"] },
             { data: "30/08/2024", captura: ["capturas/PQT/2024/8- Agosto/un2_notas.jpeg", "capturas/PQT/2024/8- Agosto/conformidades_un2_pt1.jpeg", "capturas/PQT/2024/8- Agosto/conformidades_un2_pt2.jpeg"] },
+            { data: "01/10/2024", captura: ["capturas/PQT/2024/9- Setembro/unidade2_notas.jpeg", "capturas/PQT/2024/9- Setembro/unidade2_grafico.jpeg", "capturas/PQT/2024/9- Setembro/unidade2_nao_conformidades_pt1.jpeg", "capturas/PQT/2024/9- Setembro/unidade2_nao_conformidades_pt2.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -2451,6 +2454,7 @@ const unidades = {
             { data: "26/06/2024", captura: ["capturas/PQT/2024/6- Junho/un3-pt1.png", "capturas/PQT/2024/6- Junho/un3-pt3.png"] },
             { data: "31/07/2024", captura: ["capturas/PQT/2024/7- Julho/conformidadesUnidade3.jpeg", "capturas/PQT/2024/7- Julho/graficoUnidade3.jpeg"] },
             { data: "30/08/2024", captura: ["capturas/PQT/2024/8- Agosto/un3_notas.jpeg", "capturas/PQT/2024/8- Agosto/conformidades_un3_pt1.jpeg"] },
+            { data: "01/10/2024", captura: ["capturas/PQT/2024/9- Setembro/unidade3_grafico.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -2467,6 +2471,7 @@ const unidades = {
             { data: "26/06/2024", captura: ["capturas/PQT/2024/6- Junho/un4-pt1.png", "capturas/PQT/2024/6- Junho/un4-pt2.png"] },
             { data: "31/07/2024", captura: ["capturas/PQT/2024/7- Julho/conformidadesUnidade4.jpeg", "capturas/PQT/2024/7- Julho/graficoUnidade4.jpeg"] },
             { data: "30/08/2024", captura: ["capturas/PQT/2024/8- Agosto/un4_notas.jpeg", "capturas/PQT/2024/8- Agosto/conformidades_un4_pt1.jpeg"] },
+            { data: "01/10/2024", captura: ["capturas/PQT/2024/9- Setembro/unidade4_grafico.jpeg"] },
 
 
             // { data: "", captura: [""] },
@@ -2475,6 +2480,7 @@ const unidades = {
 
     UP5: {
         Un5: [
+            // Almoxarifado
 
             { data: "02/02/2024", captura: ["capturas/PQT/2024/1- Janeiro/almoxarifado.jpg", "capturas/PQT/2024/1- Janeiro/almoxarifado_page-0001.jpg"] },
             { data: "01/04/2024", captura: ["capturas/PQT/2024/3- Março/almoxarifado-G.jpeg", "capturas/PQT/2024/3- Março/almoxarifado_page-0001.jpg"] },
@@ -2483,10 +2489,20 @@ const unidades = {
             { data: "26/06/2024", captura: ["capturas/PQT/2024/6- Junho/unA-pt1.png", "capturas/PQT/2024/6- Junho/unA-pt2.png"] },
             { data: "31/07/2024", captura: ["capturas/PQT/2024/7- Julho/conformidadesAlmoxarifado.jpeg", "capturas/PQT/2024/7- Julho/graficoAlmoxarifado.jpeg"] },
             { data: "30/08/2024", captura: ["capturas/PQT/2024/8- Agosto/almoxarifado_notas.jpeg", "capturas/PQT/2024/8- Agosto/conformidades_almoxarifado.jpeg"] },
+            { data: "01/10/2024", captura: ["capturas/PQT/2024/9- Setembro/almoxarifado_grafico.jpeg"] },
 
 
             // { data: "", captura: [""] },
         ],
+    },
+
+    UP6: {
+        UnManutencao: [
+            {data: "01/10/2024", captura: ["capturas/PQT/2024/9- Setembro/manutencao_grafico.jpeg"] },
+            
+            
+            // {data: "", captura: [""] },
+        ]
     },
 
     UPG: {
@@ -2498,6 +2514,7 @@ const unidades = {
             { data: "26/06/2024", captura: ["capturas/PQT/2024/6- Junho/resumo.png"] },
             { data: "31/07/2024", captura: ["capturas/PQT/2024/7- Julho/graficoGeral.jpeg"] },
             { data: "30/08/2024", captura: ["capturas/PQT/2024/8- Agosto/geral_notas.jpeg"] },
+            { data: "01/10/2024", captura: ["capturas/PQT/2024/9- Setembro/geral_grafico.jpeg"] },
 
             
             // { data: "", captura: [""] },
